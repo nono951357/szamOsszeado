@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    color: #333;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+input[type="number"] {
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+    width: 200px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+p#eredmeny {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #333;
+}
